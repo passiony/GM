@@ -25,3 +25,5 @@ close命令或者屏幕上方再连点4次
 ```
 
 # 5.效果图
+
+![gm_console](https://github.com/passiony/GM/blob/master/preview_gm_console.png)
